@@ -1,0 +1,32 @@
+.secondclue{
+    display:none;
+}
+
+.thirdclue{
+    display:none;
+}
+
+.fourthclue{
+    display:none;
+}
+
+body{
+    background-color: gold;
+    background-size: cover;
+    font-family: 'Charm', cursive;
+    text-align: center;
+}
+
+img{
+    border:10px solid silver;
+    height: 350px;
+}
+button{
+    width: 300px;
+    height: 50px;
+    background: url("http://s3.amazonaws.com/everystockphoto/fspid31/17/92/09/1/myp1x-oldpaper-texture-1792091-o.jpg");
+    background-size: cover;
+    font-family: 'Charm', cursive;
+    font-size: 16px;
+    border-radius: 10px;
+}
